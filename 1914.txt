@@ -1,1 +1,4 @@
-
+{
+  "maintain": true,
+  "content":"欢迎进入游戏\nxxxxxx内容"
+}
