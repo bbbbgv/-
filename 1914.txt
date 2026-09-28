@@ -1,4 +1,4 @@
 {
-  "maintain": true,
+  "maintain": tr,
   "content":"添加了疾跑机制与自动移动\n还有状态锁定，修复了显示异常与按钮与背景重和"
 }
